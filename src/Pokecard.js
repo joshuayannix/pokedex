@@ -1,4 +1,5 @@
 import React from 'react';
+import './Pokecard.css';
 
 // https://assets.pokemon.com/assets/cms2/img/pokedex/detail/${id}.png
 const POKE_API = 'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/';
